@@ -1,0 +1,6 @@
+C:\Users\jacob\source\repos\MvcIntroApp\MvcIntroApp.Shared\bin\Debug\MvcIntroApp.Shared.dll
+C:\Users\jacob\source\repos\MvcIntroApp\MvcIntroApp.Shared\bin\Debug\MvcIntroApp.Shared.pdb
+C:\Users\jacob\source\repos\MvcIntroApp\MvcIntroApp.Shared\obj\Debug\MvcIntroApp.Shared.csprojResolveAssemblyReference.cache
+C:\Users\jacob\source\repos\MvcIntroApp\MvcIntroApp.Shared\obj\Debug\MvcIntroApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\MvcIntroApp\MvcIntroApp.Shared\obj\Debug\MvcIntroApp.Shared.dll
+C:\Users\jacob\source\repos\MvcIntroApp\MvcIntroApp.Shared\obj\Debug\MvcIntroApp.Shared.pdb
